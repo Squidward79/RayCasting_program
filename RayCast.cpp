@@ -93,6 +93,10 @@ int main(int argc, char **argv)
 	ComputeColor();		// 복셀의 색상 계산
 	CreateImage();		// 이미지를 생성
 
+	
+	std::cout << "KEY INFO\nD: rotate 10degree to right \nA:rotate 10degree to left" << std::endl;
+	std::cout << "\nZ,X,C: change a type of transparency`s caluation" << std::endl;
+
 
 	// 이벤트를 처리를 위한 무한 루프로 진입한다.
 	glutMainLoop();
