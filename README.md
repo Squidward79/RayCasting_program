@@ -8,8 +8,8 @@
 <img width="280" src = "https://user-images.githubusercontent.com/45874696/67154377-50269480-f336-11e9-91c2-0dad29a50bc0.png">
 </div>
 
-＜/br>
- 使用ツール： Visual Studio / C++ / OpenGL
+
+  使用ツール： Visual Studio / C++ / OpenGL
 
 #### 内容</br>
 C++とOpenGLを利用してボリュームデータの可視化プログラムを制作しました。
