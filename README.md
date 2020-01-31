@@ -1,4 +1,4 @@
-# RayTracing-Example
+# RayTracing Program 
 ### 概要</br>
 #### プログラムの写真
 <div>
