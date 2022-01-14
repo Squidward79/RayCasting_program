@@ -1,9 +1,9 @@
 # RayTracing Program 
 #### 프로그램 사진
 <div>
-<img width="280" src = "https://user-images.githubusercontent.com/45874696/67154388-9bd93e00-f336-11e9-980f-8054df29ede0.png">
-<img width="280" src = "https://user-images.githubusercontent.com/45874696/67154374-3a18d400-f336-11e9-8ba8-f8bfafba780c.png">
-<img width="280" src = "https://user-images.githubusercontent.com/45874696/67154377-50269480-f336-11e9-91c2-0dad29a50bc0.png">
+<img width="250" src = "https://user-images.githubusercontent.com/45874696/67154388-9bd93e00-f336-11e9-980f-8054df29ede0.png">
+<img width="250" src = "https://user-images.githubusercontent.com/45874696/67154374-3a18d400-f336-11e9-8ba8-f8bfafba780c.png">
+<img width="250" src = "https://user-images.githubusercontent.com/45874696/67154377-50269480-f336-11e9-91c2-0dad29a50bc0.png">
 </div>
 
 
