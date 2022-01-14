@@ -21,7 +21,7 @@ RayCasting을 적용해 3D모델의 투명도를 조절하면, 피부에서 뼈�
 키보드로 투명도 설정, 모델의 회전이 가능합니다. 쉐이더의 조명모델은 Phong공식을 적용하였습니다.
 
 학교 과제로 만든 프로젝트이며 단층데이터를 읽어오고 창을 띄우는 기본적 openGL코드는 교수님께 받은 뼈대 코드를 바탕으로 하였습니다.
+ComputeNormal, 	AssignOpacity, ComputeColor , CreateImage 부분의 구현을 담당하였습니다.
 
 [소스코드](RayCast.cpp)
 
-ComputeNormal, 	AssignOpacity, ComputeColor , CreateImage 부분의 구현을 담당하였습니다.
